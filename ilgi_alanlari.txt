@@ -1,0 +1,37 @@
+cory55'in İlgi Alanları:
+'music': 5
+'science': 45
+'technology': 5
+'art': 2
+'politics': 2
+'movies': 1
+'photography': 16
+'history': 1
+'travelphotography': 2
+'travel': 3
+'fitness': 2
+
+austin90'nin İlgi Alanları:
+'business': 10
+'art': 3
+'technology': 2
+'movies': 1
+'technologynews': 1
+'travelphotography': 1
+'history': 1
+'nature': 1
+'food': 1
+'crafts': 1
+'architecture': 1
+'travel': 1
+'gaming': 1
+'science': 1
+
+Ortak İlgi Alanları:
+'art': 2 - 3
+'technology': 5 - 2
+'history': 1 - 1
+'movies': 1 - 1
+'travelphotography': 2 - 1
+'travel': 3 - 1
+'science': 45 - 1

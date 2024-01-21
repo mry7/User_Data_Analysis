@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../yazlab"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "deneme"
+	}
+}
